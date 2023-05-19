@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather Application</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="today">Today</string>
+    <string name="toolbar">Toolbar</string>
+    <string name="delete">Delete</string>
+    <string name="weather_app">Weather App</string>
+</resources>
